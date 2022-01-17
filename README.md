@@ -14,7 +14,7 @@ The code being implemented in MATLAB, it requires the MATLAB software, which is 
 
 # Usage
 
-To launch the program, it just requires to dowload ‘Matlab_Code’ from my repositories and execute the script main_rtp_af.m and on MATLAB. 
+To launch the program, it just requires to dowload ‘Matlab_Code’ from my repositories and execute the script main_rtp_af.m and main_rtp_pseudo.m on MATLAB. 
 
 # Email:
 
