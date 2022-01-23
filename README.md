@@ -1,12 +1,12 @@
 # MAGRTPLL
 
-Two methods for magnetic reduction to the pole at low latitudes.
+The antisymmetric factor method and the routine pseudo inclination method for magnetic reduction to the pole at low latitudes.
 
 Developed by Lianghui Guo.
 
 # Principles
 
-MAGRTPLL is a MatLab code of the two methods for magnetic reduction to the pole (rtp) at low latitudes.One is the antisymmetric factor method for magnetic reduction to the pole (rtp) at low latitudes，which is a new wavenumber-domain method for RTP at low latitudes, herein calledthe antisymmetric factor method, based on modification of the RIP factor. The method applies the antisymmetricfactor in a given scope of directions centered along the magnetic declination to suppress amplification of the RTPfactor, stabilizing the RTP. Meanwhile it utilizes the routine RTP factor in other directions to preserve the effectiveRTP features. The other is the pseudo inclination method for magnetic reduction to the pole at low latitudes.
+MagRTPLL is a MatLab code of the two methods for magnetic reduction to the pole (RTP) at low latitudes. One is the routine pseudo inclination method for magnetic reduction to the pole at low latitudes (Macleod et al, 1993). The other is the antisymmetric factor method for magnetic reduction to the pole at low latitudes (Guo et al, JAG, 2013)，which is based on modification of the RIP factor in wavenumber domain. The latter method applies the antisymmetric factor in a given scope of directions centered along the magnetic declination to suppress amplification of the RTPfactor, stabilizing the RTP. Meanwhile it utilizes the routine RTP factor in other directions to preserve the effectiveRTP features. 
 
 # Prerequisites
 
