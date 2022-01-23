@@ -1,4 +1,4 @@
-# MAGRTPLL
+# MagRTPLL
 
 The antisymmetric factor method and the routine pseudo inclination method for magnetic reduction to the pole at low latitudes.
 
@@ -26,7 +26,7 @@ Guo L H, Shi L, Meng X H. The antisymmetric factor method for magnetic reduction
 
 # License
 
-MAGRTPLL is an open source project under the GNU General Public License v3.0. It is a free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+MagRTPLL is an open source project under the GNU General Public License v3.0. It is a free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
 # All rights reserved：
 
